@@ -1,3 +1,14 @@
+# Mi-Libro-App  /  My-Book-App
+
+Final project for New Tecnologies II (second year subject - ORT Argentina)
+
+App that recognises the text on the cover of a book, 
+and from that text returns information about the book. 
+
+Using React Native, NodeJS, Google Books API and Cloud Vision's text recognition API from Firebase.
+
+___________________________________________________________________________
+
 # Mi-Libro-App
 
 Proyecto final para la materia Nuevas Tecnologías 2 de la Tecnicatura Analista de Sistemas en la ORT.
@@ -9,7 +20,9 @@ La aplicación va a tener un alcance de libros que existan en la base de datos d
 En este documento detallamos sus funcionalidades y cómo fueron utilizadas tanto la API de reconocimiento de texto como la de Google Books: 
 https://docs.google.com/document/d/1oJ-Y53LHw2BQmpQnJK08ag4QXXS00wm48pQlZ4iYg3I/edit?usp=sharing
 
----
+_____________________________________________________________________________
+
+.ENV
 
 Para utilizar la app se debe tener un archivo .env con las siguientes definiciones:
 
